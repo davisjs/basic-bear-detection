@@ -1,6 +1,5 @@
-jupyterlab
-# torch==1.6.0
-# torchvision==0.12.0
-fastai==2.0.11
 voila
-ipywidgets
+fastai>=2
+pillow<7
+packaging
+ipywidgets==7.5.1
