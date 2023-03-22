@@ -1,4 +1,4 @@
 jupyterlab
 fastai==2.5.0
 voila
-ipywidgets==7.7.2
+ipywidgets==7.6.5
