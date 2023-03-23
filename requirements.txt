@@ -1,4 +1,4 @@
-python>=3.7
+python>=3.6
 jupyterlab>=3.0
 voila
 fastai==2.5.0
