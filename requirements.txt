@@ -1,6 +1,7 @@
+jupyterlab>=3.0
 voila
-fastai-2.5.0
-pillow
+fastai==2.5.0
+pillow>=8.1.0
 packaging
-ipywidgets-7.6.0
-widgetsnbextension
+ipywidgets>=7.6.0
+widgetsnbextension>=3.5.1
