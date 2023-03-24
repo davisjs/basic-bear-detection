@@ -238,6 +238,7 @@ typer==0.4.2
 typing_extensions==4.3.0
 Unidecode==1.1.1
 urllib3==1.26.10
+voila
 wasabi==0.9.1
 wcwidth==0.2.5
 webencodings==0.5.1
