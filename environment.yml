@@ -2,7 +2,7 @@ name: jds-own-bear-detection-environment
 
 channels:
 - pytorch
-- fastchan
+# - fastchan
 # - fastai
 - defaults
 
