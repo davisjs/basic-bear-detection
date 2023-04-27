@@ -2,13 +2,7 @@ name: jds-own-bear-detection-environment
 
 channels:
 - pytorch
-# - fastchan
-# - fastai
+- fastchan
 - defaults
 
 dependencies:
-#   - fastai>=2.0
-#   - voila
-#   - pillow<7, >6.0
-#   - packaging
-#   - ipywidgets=7.5
