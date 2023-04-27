@@ -1,5 +1,10 @@
 name: jds-own-bear-detection-environment
 
+channels:
+- fastai
+- pytorch
+- defaults
+
 dependencies:
   - fastai>=2.0
   - voila
