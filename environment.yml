@@ -1,0 +1,8 @@
+name: jds-own-bear-detection-environment
+
+dependencies:
+  - fastai>=2.0
+  - voila
+  - pillow<7, >6.0
+  - packaging
+  - ipywidgets=7.5
