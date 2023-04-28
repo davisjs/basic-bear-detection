@@ -1,0 +1,10 @@
+name: jds-own-bear-detection-environment
+
+channels:
+- pytorch
+- fastchan
+- defaults
+
+dependencies:
+- voila
+
