@@ -5,3 +5,6 @@ channels:
 - fastchan
 - defaults
 
+dependencies:
+- voila
+
